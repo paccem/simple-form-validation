@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #0f3057;
+}
+.footer{
+    background-color: #0f3057; 
+}
+#why{
+    max-height: 80vh;
+}
+
+.footer-links{
+    list-style: none;
+}
+.social-icons{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 28px;
+}
+.bg-blue{
+    background-color: #0f3057;
+}
+.rounded{
+    border-radius: 20px;
+}
